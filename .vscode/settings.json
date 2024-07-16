@@ -1,0 +1,14 @@
+{
+  "locofyConfig": {
+    "project": "ABJ Real Estate",
+    "id": "6689274a7095902989f6830c",
+    "framework": "react-nextjs",
+    "typescript": false,
+    "styling": "Tailwind",
+    "unit": "px",
+    "naming": "Kebab Case",
+    "path": "public/",
+    "componentsPath": "c:\\Users\\moham\\Desktop\\Web Development\\React Apps\\real-estate-locoBeta\\src\\components",
+    "screensPath": "c:\\Users\\moham\\Desktop\\Web Development\\React Apps\\real-estate-locoBeta\\src\\pages"
+  }
+}
